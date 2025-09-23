@@ -7,6 +7,7 @@ I’m a Software Engineer training Machine Learning & Large Language Models.  I 
 Life goals include:
 
 - [x] Start an AI agency
+- [ ] Founding/Lead role in SaaS startup
 - [ ] Raise VC funds
 - [ ] Scale a Startup
 - [ ] Live in Japan
